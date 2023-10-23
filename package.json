@@ -1,0 +1,17 @@
+{
+    "name": "eslint-custom-rule-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node enforce-foo-bar.test.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.52.0",
+        "eslint-plugin-prettier": "^5.0.1",
+        "prettier": "3.0.3"
+    }
+}
