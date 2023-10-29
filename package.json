@@ -1,11 +1,12 @@
 {
-    "name": "eslint-custom-rule-example",
-    "version": "1.0.0",
+    "name": "eslint-plugin-demo1",
+    "version": "1.1.0",
     "description": "",
     "main": "index.js",
     "scripts": {
         "test": "node enforce-foo-bar.test.js"
     },
+    "private": false,
     "keywords": [],
     "author": "",
     "license": "ISC",
