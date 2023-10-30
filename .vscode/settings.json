@@ -1,8 +1,0 @@
-{
-    "editor.formatOnSave": false,
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-    },
-    "eslint.enable": true,
-    "eslint.options": { "overrideConfigFile": "/Users/zhangjiaming/code/learn/eslint-custom-rule-example/eslint.config.js" }
-}
